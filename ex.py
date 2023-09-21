@@ -11,5 +11,5 @@ while True:
         print("다운!")
         
     else:
-        print("정답!")
+        print("정답입니다!")
         break
